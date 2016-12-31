@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\LINKON\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.5.2_61278067cc8e54ef96d5291a2862b749c67fbcd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_5b662f368d33c91bb081f879c81988cb1b397d2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_017a7008c4e18cdecd637c909f8a5c62e35b788f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LINKON\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.5.2_775e1d8b71f8a6a0c8a57b30c225a27860292c57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_5abcb29a9171fdf8e5e63ca1106ef2dc2933a8ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LINKON\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_08e579c7e4d8c90cddb061bee6af055168d50887\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LINKON\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.12_1c1401103336d7f3954cbdcd574ce364f6ba7e44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LINKON\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_011a1637bab6f11b00fb8a9c3996ab56fcce57b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_f5b8539229ea6302a67f0c0b5dfdf35b78127acf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c104619293ed5b9f972adfaca183ba4149045cf1">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cf5493b69dcd9062096c77fafc51116c35f84647\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_0b769881528b5cc2224e689d125f155582500123\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LINKON\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_1c944c3923de2c193db86739c6459235f32f9efc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LINKON\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_da5829542c988207b3884c624b140c947aa0567c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_2a53a97fa4e50588fd38003daa4494e725beff3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_35dab5ed4f4d90a3154b706a2163b240d254f797\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.0_46b31cbbb8aca23d5ebd7275fec441629ad55624\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_9cd4c6f3136eed7738fc5744a2dd2cde29938de1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1882ee92d5daa7b76083dfcc831bb7069ff07cc2">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_30ecc7d51597a3233bb30f803ff4c39de4eb4e2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_418919e84ef66ef2cd7198547c6b92897c8b6ebe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_50939cd0dbabd6d7a0b731388537e8aa885cc76a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_98875501d6561879436ac2702cbb65f51bea8dfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_bb6269af98d4a5df8c771882597dffd886534f7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_477c85eccd44839727980b2e060b560c57f1b9a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidChatApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\AndroidChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_31d46c5edd8ee1f808213da809acbc60ea2764b5\classes.dex" />
+    </item>
+
+</items>
